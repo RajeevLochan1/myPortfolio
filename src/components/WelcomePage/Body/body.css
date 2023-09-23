@@ -1,0 +1,16 @@
+.profile_body {
+  margin-left:20%;
+  margin-bottom: 10%;
+}
+
+.profilePicture {
+  clip-path: circle(50% at 50% 50%);
+  height: 500px;
+  width: 500px;
+  object-fit: cover;
+}
+
+.content_buttons {
+    border: "1px solid yellow";
+    border-radius: "92px";
+}
